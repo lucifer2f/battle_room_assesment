@@ -9,7 +9,7 @@ load_dotenv()
 
 
 genai.configure(
-    api_key=os.getenv("AIzaSyDcku1rMGWbs_o0EdkbBZk8-1va3xYK8Zo")
+    api_key=os.getenv("Your_API_Key_Here")
 )
 
 
