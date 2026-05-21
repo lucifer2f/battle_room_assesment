@@ -143,8 +143,6 @@ GEMINI_API_KEY=your_api_key
 - AI image generation
 - Leaderboards
 
+Polling used instead of WebSockets for simplicity and faster implementation.
 ---
 
-# Demo
-
-Add your demo video or screenshots here.
